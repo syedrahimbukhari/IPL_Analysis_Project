@@ -1,4 +1,4 @@
-IPL Analysis 🏏
+**IPL Analysis 🏏
 Overview
 
 This project is focused on analyzing Indian Premier League (IPL) data.
@@ -25,3 +25,4 @@ Pandas – data handling
 Matplotlib / Seaborn – data visualization
 
 VS Code – for analysis workflow
+**
